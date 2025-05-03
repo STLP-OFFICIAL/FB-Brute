@@ -12,7 +12,7 @@ pkg install git
 pkg install ruby
 gem install lolcat
 rm -rf FB-Brute
-git clone https://github.com/STLP-TEAM/FB-Brute
+git clone https://github.com/STLP-OFFICIAL/FB-Brute
 pip install requests
 pip install mechanize
 cd FB-Brute
@@ -20,9 +20,9 @@ python brute.py
 ```
 # Short Command:⬇️
 ```
-termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install git && pkg install ruby && gem install lolcat && rm -rf FB-Brute && git clone https://github.com/STLP-TEAM/FB-Brute && pip install requests && pip install mechanize && cd FB-Brute && python brute.py
+termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install git && pkg install ruby && gem install lolcat && rm -rf FB-Brute && git clone https://github.com/STLP-OFFICIAL/FB-Brute && pip install requests && pip install mechanize && cd FB-Brute && python brute.py
 ```
 # Demo SS:⬇️
-<img src="https://github.com/STLP-TEAM/FB-Brute/blob/main/20221012_190507.jpg">
+<img src="https://github.com/STLP-OFFICIAL/FB-Brute/blob/main/20221012_190507.jpg">
 <h3> Join Our Facebook Group For Tool's Password</h3>
 <h5>Group Link➛ <a href="https://facebook.com/groups/spamming.termux.learning.point/">Click Here</a></h5>
